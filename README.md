@@ -2,6 +2,8 @@
 
 DeploX es una herramienta portátil para técnicos IT que permite crear paquetes de despliegue de software personalizados. Mediante una interfaz intuitiva, puedes añadir instaladores locales o URLs, generar configuraciones reutilizables y desplegar aplicaciones en cualquier equipo desde un USB de forma rápida, sencilla y centralizada.
 
+<img width="900" height="292" alt="deplox" src="https://github.com/user-attachments/assets/0ca45bde-d187-4cce-900d-fc03ce676a98" />
+
 ---
 
 ## - Tabla de contenidos
