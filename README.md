@@ -1,6 +1,6 @@
 # DeploX
 
-Sistema completo para configurar, descargar y empaquetar aplicaciones en un único ZIP. Ideal para pendrives de instalación y distribución de software.
+DeploX es una herramienta portátil para técnicos IT que permite crear paquetes de despliegue de software personalizados. Mediante una interfaz intuitiva, puedes añadir instaladores locales o URLs, generar configuraciones reutilizables y desplegar aplicaciones en cualquier equipo desde un USB de forma rápida, sencilla y centralizada.
 
 ---
 
