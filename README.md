@@ -4,7 +4,7 @@ DeploX es una herramienta portátil para técnicos IT que permite crear paquetes
 
 <img width="900" height="292" alt="deplox" src="https://github.com/user-attachments/assets/0ca45bde-d187-4cce-900d-fc03ce676a98" />
 
-*Nota: Existe una versión portátil de DeploX Server. Accede desde https://github.com/alberFdezBell/DeploX-Server*
+*Nota: Existe una versión dedicada a servidores de DeploX. Accede desde [aquí](https://github.com/alberFdezBell/DeploX-Server)*
 
 ---
 
